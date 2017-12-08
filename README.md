@@ -7,6 +7,9 @@
 ![use_scene1](./screenshot/DSC_0913.JPG)  
 http://デザコン.com/  
   
+## 起動方法
+application.windows64(32bitの場合32)内の「dezakon.exe」から起動できます。（Mac非対応）
+
 ## 機能・入力方法
 ### 1. グループ・チーム選択
 ![Screenshot_1](./screenshot/1.PNG)  
